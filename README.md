@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as Splunk Professional Services Consultant.
+- 📫 Reach me on my [Linkedin profile](https://www.linkedin.com/in/danieljeronymo/)
+
 <!--
 **brdanielc/brdanielc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

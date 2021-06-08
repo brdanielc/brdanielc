@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Splunk Professional Services Consultant.
+- 🔭 I am a Computer Engineer currently working as Splunk Professional Services Consultant.
 - 📫 Reach me on my [Linkedin profile](https://www.linkedin.com/in/danieljeronymo/)
 
 <!--
